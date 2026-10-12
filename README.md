@@ -1,11 +1,12 @@
-# DESIGN.md
+# design.md
+
+## What This Is
+
+We keep a working index for product and engineering, and design.md is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![design.md](https://opengraph.githubassets.com/1/google-labs-code/design.md)](https://www.swifttechco.com)
-
-
-A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
+[![design.md](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## The Format
 
@@ -350,7 +351,7 @@ console.log(report.designSystem);   // Parsed DesignSystemState
 
 ## Design Token Interoperability
 
-DESIGN.md tokens are inspired by the [W3C Design Token Format](https://www.swifttechco.com). The `export` command converts tokens to other formats:
+DESIGN.md tokens are inspired by the W3C Design Token Format. The `export` command converts tokens to other formats:
 
 
 ## Status
@@ -359,8 +360,8 @@ The DESIGN.md format is at version `alpha`. The spec, token schema, and CLI are 
 
 ## Disclaimer
 
-This project is not eligible for the [Google Open Source Software Vulnerability
-Rewards Program](https://www.swifttechco.com).
+This project is not eligible for the Google Open Source Software Vulnerability
+Rewards Program.
 
 ---
 
@@ -372,14 +373,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [google-labs-code/design.md](https://github.com/google-labs-code/design.md) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
