@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and design.md is the entry 
 
 ## Images
 
-[![design.md](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![design.md](images/preview.png)](https://github.com/Swift-Tech-Co/design.md)
 
 ## The Format
 
@@ -219,14 +219,13 @@ npx -p @google/design.md designmd lint DESIGN.md
 The `designmd` shim resolves to the same entrypoint and works identically across
 all platforms.
 
-
 Check your effective registry:
 
 ```bash
 npm config get registry
 ```
 
-For a normal install from the internet it should be `https://www.swifttechco.com After fixing config, retry with `npm cache clean --force` if a stale 404 was cached.
+For a normal install from the internet it should be `https://github.com/Swift-Tech-Co/design.md After fixing config, retry with `npm cache clean --force` if a stale 404 was cached.
 
 All commands accept a file path or `-` for stdin. Output defaults to JSON.
 
@@ -353,7 +352,6 @@ console.log(report.designSystem);   // Parsed DesignSystemState
 
 DESIGN.md tokens are inspired by the W3C Design Token Format. The `export` command converts tokens to other formats:
 
-
 ## Status
 
 The DESIGN.md format is at version `alpha`. The spec, token schema, and CLI are under active development. Expect changes to the format as it matures.
@@ -377,13 +375,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/design.md
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [google-labs-code/design.md](https://github.com/google-labs-code/design.md) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
